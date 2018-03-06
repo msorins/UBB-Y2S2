@@ -1,0 +1,10 @@
+Y:\Desktop\Y2S2\SGBD\LAB1\LAB1\LAB1\bin\Debug\LAB1.exe.config
+Y:\Desktop\Y2S2\SGBD\LAB1\LAB1\LAB1\bin\Debug\LAB1.exe
+Y:\Desktop\Y2S2\SGBD\LAB1\LAB1\LAB1\bin\Debug\LAB1.pdb
+Y:\Desktop\Y2S2\SGBD\LAB1\LAB1\LAB1\obj\Debug\LAB1.MainForm.resources
+Y:\Desktop\Y2S2\SGBD\LAB1\LAB1\LAB1\obj\Debug\LAB1.Properties.Resources.resources
+Y:\Desktop\Y2S2\SGBD\LAB1\LAB1\LAB1\obj\Debug\LAB1.csproj.GenerateResource.Cache
+Y:\Desktop\Y2S2\SGBD\LAB1\LAB1\LAB1\obj\Debug\LAB1.csproj.CoreCompileInputs.cache
+Y:\Desktop\Y2S2\SGBD\LAB1\LAB1\LAB1\obj\Debug\LAB1.exe
+Y:\Desktop\Y2S2\SGBD\LAB1\LAB1\LAB1\obj\Debug\LAB1.pdb
+Y:\Desktop\Y2S2\SGBD\LAB1\LAB1\LAB1\obj\Debug\LAB1.csprojResolveAssemblyReference.cache
