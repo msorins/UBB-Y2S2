@@ -1,0 +1,54 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>TV Shows</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+  <header>
+      <!--
+        8. Write a web page which contains a div with a background image.
+        When the mouse is over the div, the div should flip
+         (turn over in 3D space; rotate around the OY axis in 3D).
+      <!-->
+  </header>
+
+  <main>
+
+      <div id="peter">
+
+      </div>
+
+      <audio src="birb.mp3" preload controls></audio>
+  </main>
+
+
+  <footer>
+      <hr />
+      @Copyright MSorin 2018
+  </footer>
+</body>
+</html>
+
+<style>
+  #peter {
+    height:300px;
+    width:300px;
+    background-image: url('images/peter.jpg');
+  }
+
+  #peter:hover {
+    transform: rotateY(180deg);
+  }
+</style>

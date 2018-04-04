@@ -70,7 +70,7 @@
             this.button1.TabIndex = 1;
             this.button1.Text = "Delete Selected";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.Click += new System.EventHandler(this.deleteSelectedButton_Click);
             // 
             // episodesDataGrid
             // 
@@ -81,6 +81,7 @@
             this.episodesDataGrid.TabIndex = 4;
             this.episodesDataGrid.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.episodesDataGrid_CellClick);
             this.episodesDataGrid.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_CellContentClick);
+            this.episodesDataGrid.CellEndEdit += new System.Windows.Forms.DataGridViewCellEventHandler(this.episodesDataGrid_CellEndEdit);
             this.episodesDataGrid.UserAddedRow += new System.Windows.Forms.DataGridViewRowEventHandler(this.episodesDataGrid_UserAddedRow);
             this.episodesDataGrid.UserDeletedRow += new System.Windows.Forms.DataGridViewRowEventHandler(this.episodesDataGrid_UserDeletedRow);
             this.episodesDataGrid.UserDeletingRow += new System.Windows.Forms.DataGridViewRowCancelEventHandler(this.episodesDataGrid_UserDeletingRow);

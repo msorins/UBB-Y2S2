@@ -1,0 +1,393 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>TV Shows</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <script language="JavaScript" type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+  <header>
+
+  </header>
+
+  <main>
+      <div id="wrapper">
+        <div id="headerD">
+            <img class="headerImg" src="images/msn.png"/>
+            msn
+            <input id="headerInput" />
+            <span>Sorin-Sebastian Mircea</span>
+            <img class="headerImg" src="images/user.png"/>
+            <img class="headerImg" src="images/internet.png"/>
+            <img class="headerImg" src="images/settings.png"/>
+        </div>
+
+        <div style="clear:both">
+
+        </div>
+
+        <div class="separator"> <hr /> </div>
+        <div id="appsBar">
+            <div class="appInBar">
+                <img src="images/outlook.png"/>
+                OutLook
+            </div>
+
+            <div class="appInBar">
+                <a href="http://facebook.com">
+                  <img src="images/facebook.png"/>
+                </a>
+                Facebook
+            </div>
+
+            <div class="appInBar">
+                <img src="images/microsoftStore.png"/>
+                MS Store
+            </div>
+
+            <div class="appInBar">
+                <a href="https://onedrive.live.com/">
+                    <img src="images/onedrive.png"/>
+                </a>
+
+                OneDrive
+            </div>
+
+            <div class="appInBar">
+                <img src="images/skype.png"/>
+                Skype
+            </div>
+
+            <div class="appInBar">
+                <img src="images/onenote.png"/>
+                OneNote
+            </div>
+        </div>
+        <div id="infoBar">
+            <span id="weather">
+                <img src="images/snow.png" /> Cluj-Napoca / 30F
+            </span>
+            <span id="makeHomepage">
+              Make MSN my homepage
+            </span>
+            <span>
+              NEWS
+            </span>
+            <span>
+              ENTERTAINMENT
+            </span>
+            <span>
+              SPORTS
+            </span>
+            <span>
+              MONEY
+            </span>
+        </div>
+        <div style="clear:both">
+
+        </div>
+
+
+        <div style="margin-top:20px;" class="container">
+          <div class = "row">
+
+            <div class="col-md-9">
+
+              <div class = "row">
+                <div class="col-md-12">
+                  <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <img class="d-block w-100" src="images/car1.jpeg" alt="First slide">
+                        <div class="carousel-caption d-none d-md-block">
+                          <h5>Report: Arrest warrant issued for Jonathan Martin</h5>
+                          <p>Sportsnaut</p>
+                        </div>
+                      </div>
+                      <div class="carousel-item">
+                        <img class="d-block w-100" src="images/car3.jpeg" alt="Second slide">
+                        <div class="carousel-caption d-none d-md-block">
+                          <h5>Very other important headline of today's news</h5>
+                          <p>Very other important stuff </p>
+                        </div>
+                      </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Next</span>
+                    </a>
+                  </div>
+                </div>
+
+                <div style="margin-top:10px;" class="col-md-6">
+                  <div class="card" style="width: 18rem;">
+                    <div class="row">
+                      <div class="col-md-6">
+                          <img style="margin-left:10px; margin-top:10px; width:130px; height:115px;" src="images/sports.jpg" alt="Card image cap">
+                      </div>
+                      <div class="col-md-6">
+                        <p style="margin-top:30px;" class="card-text"> Super nice award for the guy on the left</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div style="margin-top:10px;" class="col-md-6">
+                  <div class="card" style="width: 18rem;">
+                    <div class="row">
+                      <div class="col-md-6">
+                          <img style="margin-left:10px; margin-top:10px; width:130px; height:115px;" src="images/bush.jpg" alt="Card image cap">
+                      </div>
+                      <div class="col-md-6">
+                        <p style="margin-top:30px;" class="card-text"> Bad bush is not president anymore  </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div style="margin-top:10px;" class="col-md-6">
+                  <div class="card" style="width: 18rem;">
+                    <div class="row">
+                      <div class="col-md-6">
+                          <img style="margin-left:10px; margin-top:10px; width:130px; height:115px;" src="images/protesters.jpg" alt="Card image cap">
+                      </div>
+                      <div class="col-md-6">
+                        <p style="margin-top:30px;" class="card-text"> Protests are the key</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div style="margin-top:10px;" class="col-md-6">
+                  <div class="card" style="width: 18rem;">
+                    <div class="row">
+                      <div class="col-md-6">
+                          <img style="margin-left:10px; margin-top:10px; width:130px; height:115px;" src="images/war.jpg" alt="Card image cap">
+                      </div>
+                      <div class="col-md-6">
+                        <p style="margin-top:30px;" class="card-text"> The war is not very nice </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div style="margin-top:10px;" class="col-md-6">
+                  <div class="card">
+                    <div class="card-body">
+                      <h5> Most viewed </h5>
+                      <ul class="list-group list-group-flush">
+                      <li class="list-group-item">Cras justo odio</li>
+                      <li class="list-group-item">Dapibus ac facilisis in</li>
+                      <li class="list-group-item">Vestibulum at eros</li>
+                    </ul>
+                    </div>
+                  </div>
+                </div>
+
+                <div style="margin-top:10px;" class="col-md-6">
+                  <div class="card">
+                    <div class="card-body">
+                      <h5> Pool </h5>
+                        <p>
+                          Amid the battles in D.C., who do you trust more to tell you the truth?
+                        </p>
+                        <div class="form-check">
+                          <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+                          <label class="form-check-label" for="exampleRadios1">
+                            President Trump
+                          </label>
+
+                          <br />
+                          <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+                          <label class="form-check-label" for="exampleRadios1">
+                            FBI leadership
+                          </label>
+
+                          <br />
+                          <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+                          <label class="form-check-label" for="exampleRadios1">
+                            Don't trust either
+                          </label>
+
+                          <br />
+                          <div style="clear:both">
+
+                          </div>
+                          <button style="margimargin-left:-5px; width:100%" type="button" class="btn btn-dark">Vote</button>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+          </div>
+
+                <div class="col-md-3">
+
+                    <div class="row">
+                        <div class="col-md-12">
+                          <div class="card bg-dark text-white">
+                            <img style="height:200px; width:200px;" class="card-img" src="images/car3.jpeg" alt="Card image">
+                            <div class="card-img-overlay">
+                              <h5 class="card-title">Add</h5>
+                              <p class="card-text">This is an add, buy me</p>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div style="margin-top:10px;" class="col-md-12">
+                          <div class="card">
+                            <div style="height:450px" class="card-body">
+                              <h5> Trending now </h5>
+                              <hr />
+                              Tag1 |  Tag2 | Tag3 | Tag4 | Tag5 | Tag6 | Tag7
+                              | Tag8 | Tag9 | Tag10 | Tag11 | Tag12 | Tag13
+                              Tag1 |  Tag2 | Tag3 | Tag4 | Tag5 | Tag6 | Tag7
+                              | Tag8 | Tag9 | Tag10 | Tag11 | Tag12 | Tag13
+                              Tag1 |  Tag2 | Tag3 | Tag4 | Tag5 | Tag6 | Tag7
+                              | Tag8 | Tag9 | Tag10 | Tag11 | Tag12 | Tag13
+                              Tag1 |  Tag2 | Tag3 | Tag4 | Tag5 | Tag6 | Tag7
+                            </div>
+                          </div>
+                        </div>
+
+
+                        <div style="margin-top:10px;" class="col-md-12">
+                          <div class="card">
+                            <div class="card-body">
+                              <h5> Must watch </h5>
+                              <ul class="list-group list-group-flush">
+                              <li class="list-group-item">Cras justo odio</li>
+                              <li class="list-group-item">Dapibus ac facilisis in</li>
+                              <li class="list-group-item">Vestibulum at eros</li>
+                            </ul>
+                            </div>
+                          </div>
+                        </div>
+
+                    </div>
+                 </div>
+
+
+          </div>
+
+
+          </div>
+        </div>
+      </div>
+
+  </main>
+
+<br />
+
+</body>
+</html>
+
+<style>
+  #makeHomepage {
+      color:#146fb1;
+      margin-right: 20px;
+  }
+  #infoBar {
+    float:left;
+    display: inline-block;
+  }
+
+  #infoBar span {
+    margin-left:20px;
+  }
+
+  #weather {
+    margin-left: 50px;
+    border-right: 2px;
+    border-right-color: black;
+    margin-right: 20px;
+  }
+  #infoBar > #weather > img {
+    height:30px;
+    width: 30px;
+  }
+  #wrapper {
+    height:115vh;
+    width: 90%;
+    margin-left: auto;
+    margin-right:auto;
+    background-color: #f4f4f2;
+
+    font-weight: 200;
+    font-size: 0.2 rem;
+    line-height: 1.384;
+    font-weight: 400;
+    color: #666;
+  }
+
+  #headerD {
+    display: inline-block;
+    float:left;
+    margin-left:auto;
+    margin-right:auto;
+  }
+
+  #headerD span{
+    margin-left: 30px;
+  }
+
+  #headerInput {
+    width:350px;
+    margin-left: 50px;
+  }
+
+  .headerImg {
+    width:25px;
+    height:35px;
+    padding-top: 10px;
+    margin-left: 30px;
+  }
+
+  #appsBar {
+    margin-top:10px;
+    display: inline-block;
+    float:left;
+    width:100%;
+  }
+
+  .appInBar {
+    float:left;
+    margin-left:50px;
+  }
+
+  .appInBar > a > img {
+    wdtih: 30px;
+    height: 30px;
+  }
+
+  .appInBar > img {
+    wdtih: 30px;
+    height: 30px;
+  }
+
+  .separator {
+    clear:both:
+    float:left;
+    height:2px;
+    background-color:black;
+  }
+</style>

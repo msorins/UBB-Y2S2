@@ -26,6 +26,16 @@ namespace LAB1
             InitializeComponent();
             populateShowsDataGrid();
             populateEpisodesDataGrid();
+            // Mark the selected episodes as the firstOne
+            try
+            {
+                this.selectedEpisodeId = (int)episodesDataGrid.Rows[0].Cells[0].Value;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
             showsDataGrid.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             episodesDataGrid.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
 
@@ -38,6 +48,10 @@ namespace LAB1
             */
             SqlDataAdapter da = new SqlDataAdapter();
             DataSet ds = new DataSet();
+
+            // Make sure the connection is active
+            if (connection.State == ConnectionState.Closed)
+                connection.Open();
 
             // Define the SQL command
             da.SelectCommand = new SqlCommand("SELECT * FROM Shows", connection);
@@ -100,6 +114,10 @@ namespace LAB1
             SqlDataAdapter da = new SqlDataAdapter();
             DataSet ds = new DataSet();
 
+            // Make sure the connection is active
+            if (connection.State == ConnectionState.Closed)
+                connection.Open();
+
             // Define the SQL command
             da.SelectCommand = new SqlCommand("SELECT * FROM EPISODES WHERE EPISODES.ShowsId = @id", connection);
             da.SelectCommand.Parameters.Add("@id", SqlDbType.Int).Value = selectedShowId;
@@ -112,16 +130,6 @@ namespace LAB1
 
             // Show the values in grid
             episodesDataGrid.DataSource = ds.Tables[0];
-
-            // Mark the selected episodes as the firstOne
-            try
-            {
-                this.selectedEpisodeId = (int)episodesDataGrid.Rows[0].Cells[0].Value;
-            }
-            catch(Exception e)
-            {
-                Console.WriteLine(e.Message);
-            }
             
         }
 
@@ -144,14 +152,14 @@ namespace LAB1
     
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void deleteSelectedButton_Click(object sender, EventArgs e)
         {
             // Delete the selected Episode
             SqlDataAdapter da = new SqlDataAdapter();
             DataSet ds = new DataSet();
 
             // Make sure the connection is active
-            if(connection.State == ConnectionState.Closed)
+            if (connection.State == ConnectionState.Closed)
                 connection.Open();
 
             // Execute the SQL query
@@ -161,16 +169,66 @@ namespace LAB1
 
 
             // Refresh the Episodes list
-            this.populateEpisodesDataGrid(  );
+            this.populateEpisodesDataGrid();
 
             // Delete Selection from EpisodesGrid & reset selected episodes
             episodesDataGrid.ClearSelection();
             this.selectedEpisodeId = -1;
-            
+
             //this.episodesTableAdapter.Fill(
             //    this.episodesDataSet.Episodes,
             //    (int)showsDataGrid.Rows[showsDataGrid.CurrentRow.Index].Cells[0].Value
             //);
+        }
+
+        private void episodesDataGrid_UserAddedRow(object sender, DataGridViewRowEventArgs e)
+        {
+            // Add row event (on episodes data grid)
+            SqlDataAdapter da = new SqlDataAdapter();
+            DataSet ds = new DataSet();
+
+            // Make sure the connection is active
+            if (connection.State == ConnectionState.Closed)
+                connection.Open();
+
+            // Execute the SQL query
+            da.InsertCommand = new SqlCommand("INSERT INTO Episodes(Name, Description, Season, Episode, ShowsId) VALUES('', '', 0, 0, 1) ", connection);
+            //da.InsertCommand.Parameters.Add("@name", SqlDbType.VarChar).Value = e.Row.Cells[1].Value;
+            //da.InsertCommand.Parameters.Add("@description", SqlDbType.VarChar).Value = e.Row.Cells[2].Value;
+            //da.InsertCommand.Parameters.Add("@season", SqlDbType.Int).Value = e.Row.Cells[3].Value;
+            //da.InsertCommand.Parameters.Add("@episode", SqlDbType.Int).Value = e.Row.Cells[4].Value;
+            //da.InsertCommand.Parameters.Add("@showsId", SqlDbType.Int).Value = e.Row.Cells[5].Value;
+            da.InsertCommand.ExecuteNonQuery();
+
+
+            // Refresh the Episodes list
+            this.populateEpisodesDataGrid();
+
+            // Delete Selection from EpisodesGrid & reset selected episodes
+            episodesDataGrid.ClearSelection();
+            this.selectedEpisodeId = -1;
+
+        }
+
+        private void episodesDataGrid_CellEndEdit(object sender, DataGridViewCellEventArgs e)
+        {
+            // Delete the selected Episode
+            SqlDataAdapter da = new SqlDataAdapter();
+            DataSet ds = new DataSet();
+
+            // Make sure the connection is active
+            if (connection.State == ConnectionState.Closed)
+                connection.Open();
+
+            // Execute the SQL query
+            da.UpdateCommand = new SqlCommand("UPDATE Episodes SET Name = @name, Description = @description, Season = @season, Episode = @episode, ShowsId = @showsId  WHERE EPISODES.EpisodesId = @id", connection);
+            da.UpdateCommand.Parameters.Add("name", SqlDbType.VarChar).Value = episodesDataGrid.Rows[e.RowIndex].Cells[1].Value;
+            da.UpdateCommand.Parameters.Add("description", SqlDbType.VarChar).Value = episodesDataGrid.Rows[e.RowIndex].Cells[2].Value;
+            da.UpdateCommand.Parameters.Add("season", SqlDbType.Int).Value = episodesDataGrid.Rows[e.RowIndex].Cells[3].Value;
+            da.UpdateCommand.Parameters.Add("episode", SqlDbType.Int).Value = episodesDataGrid.Rows[e.RowIndex].Cells[4].Value;
+            da.UpdateCommand.Parameters.Add("showsId", SqlDbType.Int).Value = episodesDataGrid.Rows[e.RowIndex].Cells[5].Value;
+            da.UpdateCommand.Parameters.Add("@id", SqlDbType.Int).Value = this.selectedEpisodeId;
+            da.UpdateCommand.ExecuteNonQuery();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -227,10 +285,6 @@ namespace LAB1
             Console.WriteLine("mergeeee");
         }
 
-        private void episodesDataGrid_UserAddedRow(object sender, DataGridViewRowEventArgs e)
-        {
-            Console.WriteLine("added");
-        }
 
         private void episodesDataGrid_RowsAdded(object sender, DataGridViewRowsAddedEventArgs e)
         {
@@ -256,6 +310,6 @@ namespace LAB1
 
         }
 
-      
+       
     }
 }

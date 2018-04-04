@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Gradle : 1 : 1-1.0-SNAPSHOT.war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3edd4a35-2b38-4981-8925-18bd6f6216d0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="UbbWebLab8@127.0.0.1" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="UbbWebLab8@127.0.0.1" type="e3449647:DbNodeDescriptor" />
+        <item name="UbbWebLab8" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="UbbWebLab8@127.0.0.1" type="e3449647:DbNodeDescriptor" />
+        <item name="UbbWebLab8" type="e3449647:DbNodeDescriptor" />
+        <item name="Users" type="e3449647:DbNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Auth/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/components/auth/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="23" column="10" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="33" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/components/auth/auth.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addTopic.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/components/topic/addTopic.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+              <folding>
+                <element signature="n#style#0;n#form#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Register.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Auth/Register.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="viewTopic.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/components/topic/viewTopic.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Auth/AuthManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="36" column="42" lean-forward="false" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getUserIdByMail#0;class#AuthManager#0" expanded="false" />
+                <element signature="method#validUserLogin#0;class#AuthManager#0" expanded="false" />
+                <element signature="method#addUserToDataBase#0;class#AuthManager#0" expanded="false" />
+                <element signature="method#isMailUnique#0;class#AuthManager#0" expanded="false" />
+                <marker date="1522857200737" expanded="true" signature="333:384" ph="SELECT * FRO... Users" />
+                <marker date="1522857200737" expanded="true" signature="841:872" ph="SELECT * FRO... Users" />
+                <marker date="1522857200737" expanded="true" signature="841:881" ph="SELECT * FRO... Users" />
+                <marker date="1522857200737" expanded="true" signature="1370:1468" ph="SELECT * FRO... Users" />
+                <marker date="1522857200737" expanded="true" signature="1942:2061" ph="INSERT INTO Users... " />
+                <marker date="1522857200737" expanded="true" signature="2436:2487" ph="SELECT * FRO... Users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddPost.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Posts/AddPost.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostsManager.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Posts/PostsManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="58" column="33" lean-forward="true" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#811#817#0" expanded="true" />
+                <marker date="1522857957814" expanded="true" signature="354:491" ph="INSERT INTO Posts... " />
+                <marker date="1522857957814" expanded="true" signature="862:901" ph="SELECT * FRO... Posts" />
+                <marker date="1522857957814" expanded="true" signature="862:902" ph="SELECT * FRO... Posts" />
+                <marker date="1522857957814" expanded="true" signature="1559:1572" ph="DELETE FROM " />
+                <marker date="1522857957814" expanded="true" signature="1559:1574" ph="DELETE FROM " />
+                <marker date="1522857957814" expanded="true" signature="1559:1576" ph="DELETE FROM " />
+                <marker date="1522857957814" expanded="true" signature="1559:1582" ph="DELETE FROM " />
+                <marker date="1522857957814" expanded="true" signature="1559:1585" ph="DELETE FROM " />
+                <marker date="1522857957814" expanded="true" signature="1559:1587" ph="DELETE FROM " />
+                <marker date="1522857957814" expanded="true" signature="1559:1588" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>address</find>
+      <find>caused by</find>
+      <find>port</find>
+      <find>already</find>
+      <find>sql</find>
+      <find>jdbc</find>
+      <find>as a natural</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3.5" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="1" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="1" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project '1'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project '1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project '1'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project '1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project '1'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project '1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project '1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project '1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project '1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4568511029000" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="389355002" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="1" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-model-core-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-core-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-installation-beacon-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-base-services-groovy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-script-kotlin-0.8.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-process-services-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-version-info-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-runtime-api-info-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-ui-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-logging-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/groovy-all-2.4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-wrapper-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-model-groovy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-resources-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-tooling-api-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-cli-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-docs-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-open-api-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-messaging-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-jvm-services-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-launcher-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-base-services-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ear-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-publish-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-composite-builds-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-dependency-management-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-testing-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-platform-base-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-jvm-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-plugin-development-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-diagnostics-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ide-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-build-cache-http-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-workers-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-javascript-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-platform-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-jacoco-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-plugins-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-build-comparison-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-plugin-use-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ide-play-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-scala-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-tooling-api-builders-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-announce-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-platform-jvm-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-testing-base-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-testing-jvm-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-build-init-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-maven-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-resources-sftp-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-signing-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-resources-s3-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-code-quality-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-test-kit-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ivy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-osgi-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-java-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-groovy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-antlr-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-reporting-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-platform-play-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-jetty-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ide-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-scala-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-resources-http-3.5.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Auth/Encrypt.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/DB/DBManager.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/components/topic/topic.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/components/pageElems/footer.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/components/auth/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/components/auth/register.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/components/pageElems/navbar.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/Auth/UsersOperations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Auth/Register.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Models/Topic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Topics/TopicsManager.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/components/topic/viewTopics.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/Models/Post.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Topics/AddTopic.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/components/post/addPost.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/Posts/AddPost.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Auth/AuthManager.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/components/post/removePost.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Posts/PostsManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Posts/RemovePost.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/Auth/Login.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/components/auth/auth.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/components/topic/addTopic.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/components/topic/viewTopic.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="topic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab8" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/components/topic" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/imgs" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/components/auth" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/components" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Posts" />
+      <recent name="Auth" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/components/auth" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat Server">
+    <configuration name="Tomcat Server" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.6" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : 1 : 1-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_1" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49425" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : 1 : 1-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3edd4a35-2b38-4981-8925-18bd6f6216d0" name="Default" comment="" />
+      <created>1522833286726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522833286726</updated>
+      <workItem from="1522833289051" duration="61000" />
+      <workItem from="1522833462053" duration="3609000" />
+      <workItem from="1522840490817" duration="18681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22351000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31379732" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918116" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14943705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1978022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Auth/AuthManager.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Auth/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/components/auth/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="44" lean-forward="false" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/components/auth/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Auth/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="87" lean-forward="false" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/05ff4a9e-1a6f-4b1d-8706-5da9d2955a49/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/62f0098d/05ff4a9e-1a6f-4b1d-8706-5da9d2955a49/UbbWebLab8.Users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/components/pageElems/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/components/pageElems/navbar.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/components/auth/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/imgs/login.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/imgs/register.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DB/DBManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="74" lean-forward="true" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Auth/Encrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Models/Topic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/components/topic/topic.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Topics/TopicsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#772#779#0" expanded="true" />
+            <marker date="1522853638456" expanded="true" signature="337:469" ph="INSERT INTO Topics... " />
+            <marker date="1522853638456" expanded="true" signature="824:838" ph="SELECT * FRO... Users" />
+            <marker date="1522853638456" expanded="true" signature="824:844" ph="SELECT * FRO... Topics" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Models/Post.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#1045#1046#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Topics/AddTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="39" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/components/post/removePost.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/components/topic/viewTopics.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/components/post/addPost.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="70" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Posts/RemovePost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="32" column="70" lean-forward="false" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Auth/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Auth/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/components/auth/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/components/auth/auth.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/components/topic/addTopic.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="23" column="10" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="33" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/components/topic/viewTopic.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Auth/AuthManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="36" column="42" lean-forward="false" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getUserIdByMail#0;class#AuthManager#0" expanded="false" />
+            <element signature="method#validUserLogin#0;class#AuthManager#0" expanded="false" />
+            <element signature="method#addUserToDataBase#0;class#AuthManager#0" expanded="false" />
+            <element signature="method#isMailUnique#0;class#AuthManager#0" expanded="false" />
+            <marker date="1522857200737" expanded="true" signature="333:384" ph="SELECT * FRO... Users" />
+            <marker date="1522857200737" expanded="true" signature="841:872" ph="SELECT * FRO... Users" />
+            <marker date="1522857200737" expanded="true" signature="841:881" ph="SELECT * FRO... Users" />
+            <marker date="1522857200737" expanded="true" signature="1370:1468" ph="SELECT * FRO... Users" />
+            <marker date="1522857200737" expanded="true" signature="1942:2061" ph="INSERT INTO Users... " />
+            <marker date="1522857200737" expanded="true" signature="2436:2487" ph="SELECT * FRO... Users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Posts/AddPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Posts/PostsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="33" lean-forward="true" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#811#817#0" expanded="true" />
+            <marker date="1522857957814" expanded="true" signature="354:491" ph="INSERT INTO Posts... " />
+            <marker date="1522857957814" expanded="true" signature="862:901" ph="SELECT * FRO... Posts" />
+            <marker date="1522857957814" expanded="true" signature="862:902" ph="SELECT * FRO... Posts" />
+            <marker date="1522857957814" expanded="true" signature="1559:1572" ph="DELETE FROM " />
+            <marker date="1522857957814" expanded="true" signature="1559:1574" ph="DELETE FROM " />
+            <marker date="1522857957814" expanded="true" signature="1559:1576" ph="DELETE FROM " />
+            <marker date="1522857957814" expanded="true" signature="1559:1582" ph="DELETE FROM " />
+            <marker date="1522857957814" expanded="true" signature="1559:1585" ph="DELETE FROM " />
+            <marker date="1522857957814" expanded="true" signature="1559:1587" ph="DELETE FROM " />
+            <marker date="1522857957814" expanded="true" signature="1559:1588" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Gradle : 1 : 1-1.0-SNAPSHOT.war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>1_test|1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

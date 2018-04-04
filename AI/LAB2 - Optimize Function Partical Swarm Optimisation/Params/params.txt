@@ -1,0 +1,9 @@
+swarmSize 10
+vmin -5
+vmax 5
+totalIterations 100
+w 0.5
+c1 2
+c2 2
+nrDims 2
+probReinit 0.001
